@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @delyar
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delyar&repo=github-readme-stats)](https://github.com/delyar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delyar)](https://github.com/delyar/github-readme-stats)
+
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
