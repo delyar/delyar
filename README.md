@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @delyar
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delyar)](https://github.com/delyar/github-readme-stats)
-
-
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
